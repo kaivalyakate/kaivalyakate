@@ -4,8 +4,6 @@
 
 **Software Engineer · Distributed Systems · AI Infrastructure**
 
-*Building the plumbing that makes markets move — and the AI that makes it legible.*
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaivalya-kate)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kaivalyakate12@gmail.com)
 [![New York, NY](https://img.shields.io/badge/📍-New%20York%2C%20NY-lightgrey?style=flat)](#)
